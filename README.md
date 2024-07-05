@@ -79,7 +79,7 @@ job = Job(glueContext)
 
 ###### (If you want to learn more about Data Manipulation with PySpark en Python and its functionalities, check out the my project on : [Data Manipulation with PySpark](https://github.com/CatelloTheDataProjectManager/data_manipulation_with_pysapark/blob/main/README.md).)
 
-### S3
+### S3 system
 
 <table>
   <tr>
@@ -119,3 +119,34 @@ client = session.client(
 get_secret_value_response_ymo = client.get_secret_value(
     SecretId='secret_name')
 ```
+
+### Python
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/CatelloTheDataProjectManager/ETL-AWS/blob/main/python-logo.png" alt="Python Logo" width="200">
+    </td>
+    <td>
+      With the AWS Glue notebook environment set up, you can now start transforming your data using Python and other AWS services.
+    </td>
+  </tr>
+</table>
+
+In real-life projects, AWS and Python have enabled me to perform ETL (Extract, Transform, Load) processes for various projects, such as this kind of project <a href="https://github.com/CatelloTheDataProjectManager/Customer-Segmentation/blob/main/README.md"> customer segmentation</a>.
+
+### QuickSight
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/CatelloTheDataProjectManager/ETL-AWS/blob/main/amazonQuicksight.png" alt="Amazon QuickSight" width="200">
+    </td>
+    <td>
+      After transforming the data, you can use Amazon QuickSight to visualize and analyze it. This tool helps you gain insights and make data-driven decisions.
+    </td>
+  </tr>
+</table>
+
+
+By leveraging the power of AWS Glue and other AWS services, you can build scalable, secure, and efficient ETL pipelines that enable you to extract valuable insights from your data.
