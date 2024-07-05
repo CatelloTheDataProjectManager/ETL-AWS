@@ -1,11 +1,32 @@
-# ETL with AWS Glue
+# AWS Glue (ETL)
 
-AWS Glue is a fully managed extract, transform, and load (ETL) service that makes it easy to prepare and load data for analytics. As part of the AWS ecosystem, AWS Glue seamlessly integrates with other AWS services such as Amazon S3, Amazon RDS, and Amazon Redshift, among others. This allows you to build powerful ETL pipelines that leverage the scalability, reliability, and security of AWS.
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/CatelloTheDataProjectManager/ETL-AWS/blob/main/AWS-Glue.png" alt="AWS Glue" width="200">
+    </td>
+    <td>
+      AWS Glue is a fully managed extract, transform, and load (ETL) service that makes it easy to prepare and load data for analytics.
+    </td>
+  </tr>
+</table>
+
 
 ## Setting up the notebook environment
 ### Access Management (IAM)
 
-First, define the AWS Identity and Access Management (IAM) role and connections. This is necessary for AWS Glue to access and interact with other AWS services.
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/CatelloTheDataProjectManager/ETL-AWS/blob/main/IAM.png" alt="IAM" width="200">
+    </td>
+    <td>
+      Define the IAM role and connections first. This enables AWS Glue to access and interact with other AWS services securely.
+    </td>
+  </tr>
+</table>
+
+
 
 ```python
 %iam_role arn:aws:iam:<your_iam_role>
@@ -13,7 +34,7 @@ First, define the AWS Identity and Access Management (IAM) role and connections.
 ```
 ### System Management Libraries
 
-Next, import several libraries that are essential for system management, data management, and working with AWS services.
+
 
 ```python
 import sys
