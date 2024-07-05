@@ -34,6 +34,16 @@
 ```
 ### System Management Libraries
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/CatelloTheDataProjectManager/ETL-AWS/blob/main/PySpark.png" alt="PySpark" width="200">
+    </td>
+    <td>
+      Import PySpark and other libraries next. These are crucial for managing systems, data, and AWS services.
+    </td>
+  </tr>
+</table>
 
 
 ```python
@@ -71,12 +81,34 @@ job = Job(glueContext)
 
 ### S3
 
-Use the s3fs library to interact with the S3 file system. This allows you to read and write data to and from S3 buckets.
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/CatelloTheDataProjectManager/ETL-AWS/blob/main/S3.png" alt="S3" width="200">
+    </td>
+    <td>
+      Use the s3fs library to interact with the S3 file system. This allows you to read and write data to and from S3 buckets securely and efficiently.
+    </td>
+  </tr>
+</table>
+
 
 ```python
 s3 = s3fs.S3FileSystem(anon=False)
 ```
 ### Accessing secrets from Secrets Manager
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/CatelloTheDataProjectManager/ETL-AWS/blob/main/AWSSM.png" alt="AWS Secrets Manager" width="200">
+    </td>
+    <td>
+      Use AWS Secrets Manager to store and retrieve sensitive data securely. This helps maintain the security and compliance of your ETL pipelines.
+    </td>
+  </tr>
+</table>
+
 
 ```python
 session = boto3.session.Session()
