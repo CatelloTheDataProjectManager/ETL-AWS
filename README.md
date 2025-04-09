@@ -150,3 +150,11 @@ In real-life projects, AWS and Python have enabled me to perform ETL (Extract, T
 
 
 By leveraging the power of AWS Glue and other AWS services, you can build scalable, secure, and efficient ETL pipelines that enable you to extract valuable insights from your data.
+
+#  Alternative to ETL pipelines on AWS
+
+This project, **Cybersecurity_IA**, focuses on leveraging artificial intelligence to enhance data security. It serves as an alternative to traditional ETL pipelines on AWS, providing an efficient and flexible solution for managing and securing data. You can view an illustrative preview of my work [here](https://github.com/CatelloTheDataProjectManager/cybersecurity_IA).
+
+In addition to this, I have worked on projects involving data encryption to ensure confidentiality and protection. To improve usability and interactivity, I utilized **Streamlit** to create a user-friendly front-end interface. For reproducibility and cross-device compatibility, I incorporated **Docker** into the workflow. This project highlights my expertise in AI, data security, and the use of modern tools to ensure reliability and scalability.
+
+![Preview](https://github.com/CatelloTheDataProjectManager/ETL-AWS/blob/main/user_1.gif)
