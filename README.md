@@ -1,3 +1,22 @@
+
+
+# ETL & AWS Expertise
+
+Welcome to my GitHub repository showcasing my expertise in ETL (Extract, Transform, Load) processes and AWS (Amazon Web Services) development. Throughout my professional career, I have gained practical experience in designing, implementing, and optimizing ETL pipelines, as well as leveraging AWS services to build scalable and efficient data solutions.
+
+## About Me
+
+I am a data professional with a strong background in ETL and AWS. My journey has equipped me with hands-on experience in various aspects of data engineering, including:
+
+- **Data Extraction**: Proficient in extracting data from diverse sources such as databases, APIs, and flat files.
+- **Data Transformation**: Skilled in transforming raw data into meaningful insights using tools like Apache Spark, Python, and SQL.
+- **Data Loading**: Experienced in loading transformed data into data warehouses and databases for analysis and reporting.
+- **AWS Services**: Knowledgeable in utilizing AWS services such as S3, Lambda, Glue, Redshift, and more to build robust data pipelines.
+
+## Certifications
+
+In addition to my practical experience, I have also earned several certifications to further solidify my knowledge in ETL and AWS. You can view my AWS Course Completion Certificate [here](https://github.com/CatelloTheDataProjectManager/ETL-AWS/blob/main/134_3_7310454_1745303155_AWS%20Course%20Completion%20Certificate.pdf).
+
 # AWS Glue (ETL)
 
 <table>
