@@ -1,8 +1,12 @@
-
-
 # ETL & AWS Expertise
 
-Welcome to my GitHub repository showcasing my expertise in ETL (Extract, Transform, Load) processes and AWS (Amazon Web Services) development. Throughout my professional career, I have gained practical experience in designing, implementing, and optimizing ETL pipelines, as well as leveraging AWS services to build scalable and efficient data solutions.
+Welcome to my GitHub repository showcasing my expertise in ETL (Extract, Transform, Load) processes and AWS (Amazon Web Services) development. Throughout my professional career, I have gained practical experience in designing, implementing, and optimizing ETL pipelines, as well as leveraging AWS services to build scalable and efficient data solutions. In addition to my practical experience, I have also earned several certifications to further solidify my knowledge in ETL and AWS. You can view my AWS Course Completion Certificate
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/CatelloTheDataProjectManager/ETL-AWS/blob/main/AWS%20Course%20Completion%20Certificate.png" alt="AWS Course Completion Certificate" style="width: 40%;">
+  <img src="https://github.com/CatelloTheDataProjectManager/ETL-AWS/blob/main/Cloud%20Computing%20101.png" alt="Cloud Computing 101" style="width: 20%;">
+  <img src="https://github.com/CatelloTheDataProjectManager/ETL-AWS/blob/main/Machine%20Learning%20for%20Natural%20Language%20Processing.png" alt="Machine Learning for NLP" style="width: 20%;">
+</div>
 
 ## About Me
 
@@ -12,10 +16,6 @@ I am a data professional with a strong background in ETL and AWS. My journey has
 - **Data Transformation**: Skilled in transforming raw data into meaningful insights using tools like Apache Spark, Python, and SQL.
 - **Data Loading**: Experienced in loading transformed data into data warehouses and databases for analysis and reporting.
 - **AWS Services**: Knowledgeable in utilizing AWS services such as S3, Lambda, Glue, Redshift, and more to build robust data pipelines.
-
-## Certifications
-
-In addition to my practical experience, I have also earned several certifications to further solidify my knowledge in ETL and AWS. You can view my AWS Course Completion Certificate [here](https://github.com/CatelloTheDataProjectManager/ETL-AWS/blob/main/134_3_7310454_1745303155_AWS%20Course%20Completion%20Certificate.pdf).
 
 # AWS Glue (ETL)
 
